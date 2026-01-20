@@ -33,7 +33,7 @@ The project uses `millis()` timers to handle multitasking without blocking the p
 
 ## 🚀 How to Install
 1.  Clone this repository.
-2.  Open `SweetSpotGame.ino` in the Arduino IDE.
+2.  Open `DistanceMiniGame.ino` in the Arduino IDE.
 3.  Connect your Arduino Uno.
 4.  Select your board and port, then click **Upload**.
 5.  *Listen for the startup sound... and Good Luck!*
